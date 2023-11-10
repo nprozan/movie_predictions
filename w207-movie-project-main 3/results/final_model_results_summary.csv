@@ -1,0 +1,2 @@
+Run ID,Algorithm,Description,Train+Valid Loss,Test Loss,Train+Valid Accuracy,Test Accuracy
+03,DistilBERT,"hypertuned, retrained on train+valid",0.18320000171661377,0.2619999945163727,0.9399,0.9037

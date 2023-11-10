@@ -1,0 +1,22 @@
+genre,n,loss,accuracy
+Action & Adventure,408,0.4938,0.7647
+Animation,85,0.4592,0.7647
+Anime & Manga,3,0.2344,1.0
+Art House & International,227,0.4869,0.7665
+Classics,94,0.4623,0.7872
+Comedy,607,0.5063,0.7496
+Cult Movies,10,0.5848,0.6
+Documentary,168,0.3434,0.869
+Drama,999,0.4691,0.7908
+Faith & Spirituality,9,0.3902,0.8889
+Gay & Lesbian,5,0.5311,0.4
+Horror,185,0.4541,0.7622
+Kids & Family,153,0.4604,0.7712
+Musical & Performing Arts,95,0.5122,0.7263
+Mystery & Suspense,387,0.4875,0.7829
+Romance,214,0.4552,0.8131
+Science Fiction & Fantasy,213,0.5027,0.7559
+Special Interest,108,0.4145,0.8148
+Sports & Fitness,20,0.3659,0.9
+Television,12,0.4133,0.8333
+Western,17,0.3233,0.9412
